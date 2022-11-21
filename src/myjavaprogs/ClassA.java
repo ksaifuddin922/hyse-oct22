@@ -9,6 +9,7 @@ public class ClassA {
 		int c = a + b;
 
 		System.out.println("AddTwoNumbers" + c);
+		System.out.println("");
 	}
 
 	public int AddTwoNumbersWithparam(int a, int b) {
@@ -18,7 +19,7 @@ public class ClassA {
 	}
 
 	public void subStarct() {
-
+		System.out.println("");
 	}
 
 	public void Multilplication() {

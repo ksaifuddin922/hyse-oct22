@@ -14,6 +14,7 @@ public class TestNgDemo {
 	public void method1() {
 		try {
 			System.out.println("before Suite");
+			System.out.println("");
 			
 		} catch (Exception e) {
 			

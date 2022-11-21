@@ -31,6 +31,7 @@ public class AseertionsDemo {
 		String ExpetedResult = "Test Automation";
 		System.out.println("myTest1 ");
 		Assert.assertEquals("Test Automation", ExpetedResult);
+		System.out.println("");
 
 	}
 
